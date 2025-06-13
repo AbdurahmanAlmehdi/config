@@ -1,6 +1,10 @@
 {
-    "update_info": {
-        "min_version_android": "2.0.0",
-        "min_version_ios": "2.0.0"
+    "update_info_cus": {
+        "min_version_android": "1.0.0",
+        "min_version_ios": "1.0.0"
+    },
+    "update_info_tech": {
+        "min_version_android": "1.0.0",
+        "min_version_ios": "1.0.0"
     }
 }
